@@ -3,7 +3,7 @@
 ### Instructions
 Write a function that reads a text file (UTF8) and prints it to stdout:
 
-1. Prototype: `def read_file(filename=""):`
+1. Prototype: `ruby def read_file(filename=""):`
 2. You must use the with statement
 3. You don’t need to manage file permission or file doesn't exist exceptions.
 4. You are not allowed to import any module
